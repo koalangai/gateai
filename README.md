@@ -7,6 +7,7 @@ GateAI is a DevOps service to proxying, monitoring, cost tracking, analyzing, an
 5. Parameterized requests and multi-turn dialogue prompt control.
 
 Supported AI API type: **Chat**, **Image**
+
 Supported AI Providers: [OpenAI](https://platform.openai.com/docs/api-reference), [Anthropic](https://docs.anthropic.com/claude/reference/getting-started-with-the-api),  [Leonardo](https://leonardo.ai/)
    
 # Monitoring
