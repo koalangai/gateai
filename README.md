@@ -4,7 +4,8 @@ GateAI is a DevOps service to proxying, monitoring, cost tracking, analyzing, an
 2. High avaliable backend service.
 3. Asynchronous process, low latency.
 4. Support plugins to expand the range of API services.
-
+5. Parameterized requests and multi-turn dialogue prompt control.
+   
 # Monitoring
 1. Log and reterial every request details.
 2. Search request by client information, API information.
