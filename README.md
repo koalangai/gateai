@@ -1,21 +1,22 @@
-GateAI is a DevOps service to proxying, monitoring, cost tracking, analyzing, and debugging AI APIs.
-# Proxying
-1. OpenAI liked API protocol.
-2. High avaliable backend service.
-3. Asynchronous process, low latency.
-4. Support plugins to expand the range of API services.
-5. Parameterized requests and multi-turn dialogue prompt control.
+# GateAI: A DevOps Service for Proxying, Monitoring, Cost Tracking, Analyzing, and Debugging AI APIs
 
-Supported AI API type: **Chat**, **Image**
+## Proxying
+1. Supports the OpenAI API liked protocol.
+2. Provides a highly available backend service.
+3. Executes asynchronous processes with low latency.
+4. Offers support for plugins to expand the range of API services.
+5. Allows parameterized requests and control over multi-turn dialogue prompts.
 
-Supported AI Providers: [OpenAI](https://platform.openai.com/docs/api-reference), [Anthropic](https://docs.anthropic.com/claude/reference/getting-started-with-the-api),  [Leonardo](https://leonardo.ai/)
-   
-# Monitoring
-1. Log and reterial every request details.
-2. Search request by client information, API information.
+Supported AI API types: **Chat**, **Image**
 
-# WebUI
+Supported AI Providers: [OpenAI](https://platform.openai.com/docs/api-reference), [Anthropic](https://docs.anthropic.com/claude/reference/getting-started-with-the-api), [Leonardo](https://leonardo.ai/)
 
-# Install
+## Monitoring
+1. Logs and retrieves every request detail.
+2. Enables searching requests by client and API information.
 
-# Plugin
+## WebUI
+
+## Installation
+
+## Plugin
