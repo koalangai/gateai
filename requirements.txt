@@ -1,0 +1,6 @@
+fastapi~=0.103.0
+openai~=1.23.2
+anthropic~=0.25.6
+shortuuid~=1.0.13
+asyncpg~=0.29.0
+uvicorn~=0.29.0
